@@ -1,0 +1,8 @@
+.square {
+  border-color: "black";
+  width: 10px;
+  height: 10px;
+}
+.board-continaer {
+  background-color: yellow;
+}
